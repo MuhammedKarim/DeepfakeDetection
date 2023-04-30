@@ -1,0 +1,12 @@
+torchvision
+efficientnet-pytorch
+albumentations
+opencv-python
+numpy
+matplotlib
+scipy
+pillow
+typing
+customtkinter
+flask
+pytube
